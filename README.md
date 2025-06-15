@@ -28,5 +28,5 @@ The dataset contains two attributes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vehicle-count-prediction.git
+git clone https://github.com/SairamNagarajan1/vehicle-count-prediction.git
 cd vehicle-count-prediction
